@@ -65,7 +65,7 @@ export default function ProjectPage({
   );
 
   return createPortal(
-    <div className="absolute left-[33%] w-2/3 mt-16 px-[5%]">
+    <div className="absolute left-[33%] w-3/4 mt-16 pl-[7%] pr-[13%]">
       {currentProject && (
         <header className="pb-4 mb-4 border-b-2 border-stone-300">
           <div className="flex items-center justify-between">

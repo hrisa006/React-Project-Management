@@ -66,7 +66,7 @@ export default function ProjectForm({ onSave, onCancel, projectsArray }) {
         <h2 className="text-xl font-bold text-stone-700 my-4">Invalid Input</h2>
         {alert}
       </Modal>
-      <div className="absolute left-[33%] w-2/3 mt-16 px-[5%]">
+      <div className="absolute left-[33%] w-3/4 mt-16 pl-[7%] pr-[13%]">
         <menu className="flex items-center justify-end gap-4 my-4">
           <li>
             <button
