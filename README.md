@@ -1,4 +1,4 @@
-# React Project Manager
+# Project Management
 
 A simple Project Management web application built with React and Tailwind CSS. This project allows users to create, view, and manage tasks for different projects in a user-friendly interface.
 
