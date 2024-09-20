@@ -15,15 +15,17 @@ A simple Project Management web application built with React and Tailwind CSS. T
 - [**Node.js**](https://nodejs.org/en)
 - [**Tailwind CSS**](https://tailwindcss.com/)
 
-## Screenshots
+## Visualization
+### Main Page:
+![MainPage](https://github.com/user-attachments/assets/393cab6c-c63a-4f88-98dd-5ffa69f2d7c9)
 
-### No Project Selected
-![No Project Selected](./path-to-screenshot/Screenshot1.png)
+### Add New Project:
+![CreateProject](https://github.com/user-attachments/assets/7a1fcbc6-e078-4d2b-97b8-82d429d6b408)
 
-### Project View
-![Project View](./path-to-screenshot/Screenshot2.png)
+### Project View:
+![CreateTasks](https://github.com/user-attachments/assets/9e9a7f4f-b5e8-46bd-ab3d-bbf4821cda94)
 
-### Add New Project
-![Add New Project](./path-to-screenshot/Screenshot3.png)
+### Error Pop-ups:
+![EmptyValues](https://github.com/user-attachments/assets/3c000fb9-6f55-4138-8ef5-6f8dc16fe96b)
 
-
+![DuplicateTitles](https://github.com/user-attachments/assets/c7eac7e7-d8f7-4c53-ac4a-18bf3394630a)
